@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Created by PhpStorm.
+ * User: kanghonghong
+ * Date: 2016/1/12
+ * Time: 17:11
+ */
 namespace phpDocumentor\Composer;
 
 use Composer\Composer;
